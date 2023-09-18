@@ -12,7 +12,7 @@ MOBILE: 06 01 00 00 00
 MAIL: b.djahnit@oclock.school
 
 **COMPETENCES**
-Expérience dans la vente, la commande et la gestion des stocks dans le secteur Alimentaires, Animalerie, Télécommunication, Accessoires téléphoniques, Electroménager, Appareils Audio, Vidéo, Photo, Matériels et accessoires informatique.
+- Expérience dans la vente, la commande et la gestion des stocks dans le secteur Alimentaires, Animalerie, Télécommunication, Accessoires téléphoniques, Electroménager, Appareils Audio, Vidéo, Photo, Matériels et accessoires informatique.
 
 **EXPERIANCES PROFESSIONNELES**
 - 2021/2023 Hôte de relation client chez Auchan.
@@ -33,7 +33,7 @@ Expérience dans la vente, la commande et la gestion des stocks dans le secteur 
 - 1993 Terminal S
 
 **CONNAISSANCES**
-Dans les appareils photos, camera, télévision, lecteur multimédia, smartphone, matériels satellite, ordinateurs, matériels informatiques, consoles de jeux etc...
+- Dans les appareils photos, camera, télévision, lecteur multimédia, smartphone, matériels satellite, ordinateurs, matériels informatiques, consoles de jeux etc...
 
 **LANGUES**
-Arabe lus, parlés et écrits.
+- Arabe lus, parlés et écrits.
