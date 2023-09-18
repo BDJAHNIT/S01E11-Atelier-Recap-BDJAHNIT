@@ -5,11 +5,11 @@ ___
 ###### [Acceuil](https://github.com/BDJAHNIT)-[Projets](projets.md)-[CV](CV.md)-[Contact](Contact.md)
 ### CV
 ---
-Badreddine DJAHNIT
-11 AVENUE De paris 
-FIXE: 01 00 00 00 00
-MOBILE: 06 01 00 00 00
-MAIL: b.djahnit@oclock.school
+- Badreddine DJAHNIT
+- 11 AVENUE De paris 
+- FIXE: 01 00 00 00 00
+- MOBILE: 06 01 00 00 00
+- MAIL: b.djahnit@oclock.school
 
 **COMPETENCES**
 - Expérience dans la vente, la commande et la gestion des stocks dans le secteur Alimentaires, Animalerie, Télécommunication, Accessoires téléphoniques, Electroménager, Appareils Audio, Vidéo, Photo, Matériels et accessoires informatique.
