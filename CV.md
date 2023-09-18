@@ -28,9 +28,9 @@ Expérience dans la vente, la commande et la gestion des stocks dans le secteur 
 >1993/1997 Vendeur acheteur dans une épicerie.
 
 **FORMATION**
->2000 CAP Camera
->2000 CAP Photographie
->1993 Terminal S
+-2000 CAP Camera
+-2000 CAP Photographie
+-1993 Terminal S
 
 **CONNAISSANCES**
 Dans les appareils photos, camera, télévision, lecteur multimédia, smartphone, matériels satellite, ordinateurs, matériels informatiques, consoles de jeux etc...
